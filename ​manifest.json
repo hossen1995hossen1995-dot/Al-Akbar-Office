@@ -1,0 +1,19 @@
+{
+  "name": "مكتب الأكبر",
+  "short_name": "مكتب الاكبر",
+  "description": "تنظيم عمل المكتب",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f3e6c4",
+  "theme_color": "#4a3620",
+  "dir": "rtl",
+  "lang": "ar",
+  "icons": [
+    {
+      "src": "https://www.pwabuilder.com/assets/images/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
